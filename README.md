@@ -13,7 +13,10 @@
 Well I got bored from using python, hence why I started working on this project, it is really small but it fits well what I am currently able to do
 
 ## How do I compile it?
-Simple! Run `make` and it is going to build "genesis.exe"
+If you use "CMD", do:
+`make windows`
+If you use "CMDer" or any other type of "emulators", do:
+`make linux`
 
 ## With more precision, what does it write and where?
 Here is  your answer:
