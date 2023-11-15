@@ -32,5 +32,8 @@ Here is  your answer:
     // -------------------------------------------------------------------------------------
 ```
 
+## How to get MUGEN?
+Download WINMugen here: [WINMugen.zip](https://mugenarchive.com/forums/downloads.php?do=file&id=267-winmugen-plus-2007-elecbyte-rouhei-anonynous-hacker&act=down&actionhash=guest)
+
 ## Project date
 Was made in **november 2023**
