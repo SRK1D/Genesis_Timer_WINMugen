@@ -1,3 +1,5 @@
+all:
+	@echo "Please either use \"make windows\" or \"make linux\""
 
 linux:
 ifneq ("$(wildcard *.exe)", "")
